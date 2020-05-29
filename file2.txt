@@ -8,3 +8,5 @@
    ls -la
    cd .. ( to exit from the current folder)
    rm -rf Intellipaat2 --> to remove the folder.
+Git Stash --> to save the work without commiting
+Git Revert "commit id" --> to revert the commit to previous version.
