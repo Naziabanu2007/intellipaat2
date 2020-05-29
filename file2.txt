@@ -1,0 +1,10 @@
+   git clone https://github.com/Naziabanu2007/Intellipaat.git
+   ls -ld Intellipaat
+   cd Intellipaat   --> changed directory to Intellipaat
+   ls
+   ls -la
+   git clone drwxr-xr-x 1 nbanu 1049089  0 May 23 12:58 ./
+   git clone https://github.com/Naziabanu2007/Intellipaat.git
+   ls -la
+   cd .. ( to exit from the current folder)
+   rm -rf Intellipaat2 --> to remove the folder.
